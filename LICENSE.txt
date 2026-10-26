@@ -1,0 +1,15 @@
+CM Commander 1.0
+Author: CorpusMedicus
+Copyright (c) 2026 CorpusMedicus
+
+FREE USE AND DISTRIBUTION
+CM Commander is free to use, copy and redistribute, without restriction, for personal or commercial purposes. No payment or donation is required.
+
+AS IS — NO WARRANTY
+CM Commander is provided "as is", without warranty of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose and noninfringement. To the extent permitted by applicable law, the author is not liable for claims, damages or other liability arising from the software or its use, including loss of data.
+
+TESTING STATUS
+CM Commander 1.0 still needs broader testing across different Linux systems, drives and network environments. Bugs may remain. Keep backups of important files and test unfamiliar operations with disposable copies before relying on them.
+
+THIRD-PARTY COMPONENTS
+These permissions apply to CMCommander. Third-party components, including 7-Zip when supplied with the application, remain subject to their own licenses and notices.
